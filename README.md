@@ -1,4 +1,4 @@
-# 2023-01-17-dsci310-git-dan
+# 2023-01-17: DSCI 310
 Intro Git Demo
 
 - `git clone <URL>`: takes what's on GitHub and does a one time download to your computer
